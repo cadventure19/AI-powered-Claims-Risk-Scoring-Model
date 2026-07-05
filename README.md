@@ -9,7 +9,7 @@
 
     The Generative AI component of the project. It hooks into the machine learning model's output to dynamically generate 2-line, layman-friendly risk summaries and operational next steps for claims auditors.
 
-   model_document.docx
+    model_document.docx
 
     A comprehensive business and technical brief containing detailed answers to project stakeholders regarding framework design, model trade-offs, data distributions, and future enhancements.
 
